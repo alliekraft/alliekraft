@@ -11,7 +11,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>.NET Maui Mobile Applications</b>
-  - [My Little Library - Mobile Application - Capstone Project] ("Github link")
+  - [My Little Library Capstone Project]("https://github.com/alliekraft/MyLittleLibrary")
   - [WGU Student Academics - Mobile Application]("Github link")
   
 - <b>User Interface and User Experience</b>
