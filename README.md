@@ -12,7 +12,7 @@
 
 - <b>.NET Maui Mobile Applications</b>
   - [My Little Library Captone Project](https://github.com/alliekraft/MyLittleLibrary)
-  - [WGU Student Academics - Mobile Application]("Github link")
+  - [WGU Student Academics - Mobile Application](https://github.com/alliekraft/WGUStudentAcademicApp)
   
 - <b>User Interface and User Experience</b>
   - [Pet Paradigm Mock Website]("Github link")
