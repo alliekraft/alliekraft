@@ -15,7 +15,7 @@
   - [WGU Student Academics - Mobile Application](https://github.com/alliekraft/WGUStudentAcademicApp)
   
 - <b>User Interface and User Experience</b>
-  - [Pet Paradigm Mock Website]("Github link")
+  - [Pet Paradigm Mock Website](https://github.com/alliekraft/PetWebsite)
   - [Taniti Island Mock Website](https://github.com/alliekraft/IslandWebsite)
    
 - <b>Programming and Applications (C++ and C#)</b>
