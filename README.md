@@ -18,9 +18,9 @@
   - [Pet Paradigm Mock Website](https://github.com/alliekraft/PetWebsite)
   - [Taniti Island Mock Website](https://github.com/alliekraft/IslandWebsite)
    
-- <b>Programming and Applications (C++ and C#)</b>
+- <b>Programming and Applications</b>
   - [Appointment Scheduling Software Application] ("GitHubLink)
-  - [Inventory Management Software Application]("GitHubLink
+  - [Inventory Management Software Application](https://github.com/alliekraft/InventoryApp)
   
 
 
