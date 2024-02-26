@@ -16,7 +16,7 @@
   
 - <b>User Interface and User Experience</b>
   - [Pet Paradigm Mock Website]("Github link")
-  - [Taniti Island Mock Website]("Github link")
+  - [Taniti Island Mock Website](https://github.com/alliekraft/IslandWebsite)
    
 - <b>Programming and Applications (C++ and C#)</b>
   - [Appointment Scheduling Software Application] ("GitHubLink)
