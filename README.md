@@ -19,7 +19,7 @@
   - [Taniti Island Mock Website](https://github.com/alliekraft/IslandWebsite)
    
 - <b>Programming and Applications</b>
-  - [Appointment Scheduling Software Application] ("GitHubLink)
+  - [Appointment Scheduling Software Application](https://github.com/alliekraft/AppointmentSchedulerApp)
   - [Inventory Management Software Application](https://github.com/alliekraft/InventoryApp)
   
 
