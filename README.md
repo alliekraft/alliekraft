@@ -1,4 +1,4 @@
-<h1>Hi, I'm Allie! <br/><a href="https://github.com/alliekraft">Programmer</a>, <a href="https://www.linkedin.com/in/alecia-kraft-bb76652a1/">Software Engineer Graduate</a>
+<h1>Hi, I'm Allie! <br/><a href="https://github.com/alliekraft">Programmer</a>, <a href="https://www.linkedin.com/in/alecia-kraft-bb76652a1/">Software Engineer Graduate</a>, Indie Game Developer
 
 <h2>📃Certifications:</h2>
 
@@ -22,6 +22,7 @@
   - [Appointment Scheduling Software Application](https://github.com/alliekraft/AppointmentSchedulerApp)
   - [Inventory Management Software Application](https://github.com/alliekraft/InventoryApp)
   
+<h2>🎮 Game Development Projects:</h2>
 
 
 <!--
