@@ -25,7 +25,7 @@
 <h2>🎮 Game Development Projects:</h2>
 
 -  <b>Unreal Engine</b>
-  -  [In Progress Solo Game Project](https://github.com/alliekraft/SoloGameProject)
+  - [In Progress Solo Game Project](https://github.com/alliekraft/SoloGameProject)
 
 
 <!--
