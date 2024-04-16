@@ -23,8 +23,8 @@
   - [Inventory Management Software Application](https://github.com/alliekraft/InventoryApp)
   
 <h2>🎮 Game Development Projects:</h2>
-- <b>Unreal Engine</b>
-  - [In Progress Solo Game Project](https://github.com/alliekraft/SoloGameProject)
+-<b>Unreal Engine</b>
+  -[In Progress Solo Game Project](https://github.com/alliekraft/SoloGameProject)
 
 
 <!--
